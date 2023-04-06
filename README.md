@@ -28,6 +28,8 @@ python lowlight_test.py
 脚本将处理“test_data”文件夹子文件夹中的图像，并在“data”中创建一个新的文件夹“result”。您可以在“结果”文件夹中找到增强的图像。
 
 # Train模式:
+数据集可以从这里下载
+https://aistudio.baidu.com/aistudio/datasetdetail/206295
 ```
 python lowlight_train.py
 ```
