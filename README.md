@@ -29,7 +29,7 @@ python lowlight_test.py
 
 # Train模式:
 数据集可以从这里下载  
-https://aistudio.baidu.com/aistudio/datasetdetail/206295
+https://aistudio.baidu.com/aistudio/datasetdetail/206295  
 解压后放在data文件夹下
 ```
 python lowlight_train.py
